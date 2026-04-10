@@ -2,7 +2,7 @@
 
 # DeepSearch Agent
 
-### Intelligent Multi-Source AI Research & Search 
+### Intelligent Multi-Source AI Research & Search System
 
 </div>
 
