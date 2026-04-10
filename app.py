@@ -14,7 +14,7 @@ arxiv=ArxivQueryRun(api_wrapper=arxiv_wrapper)
 api_wrapper=WikipediaAPIWrapper(top_k_results=1,doc_content_chars_max=200)
 wiki=WikipediaQueryRun(api_wrapper=api_wrapper)
 
-search=DuckDuckGoSearchRun(name="Search")
+search=DuckDuckGoSearchRun(name="Search"
 
 
 st.title("DeepSearch-Your Intelligent Agent ")
