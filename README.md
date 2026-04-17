@@ -10,7 +10,7 @@
 
 ## Overview
 
-**DeepSearch Agent** is an AI-powered research assistant that combines **multi-source information retrieval** with **LLM-based reasoning** to deliver contextual and insightful answer.
+**DeepSearch Agent** is an AI-powered research assistant that combines **multi-source information retrieval** with **LLM-based reasoning** to deliver contextual and insightful answers.
 
 Built using **LangChain Agents** and **Groq’s high-performance LLMs**, the system integrates academic and web search tools such as **Arxiv, Wikipedia, and DuckDuckGo** into a unified conversational interface.
 
