@@ -1,6 +1,6 @@
 <div align="center">
 
-# DeepSearch Agen
+# DeepSearch Agent
 
 ### Intelligent Multi-Source AI Research & Search System
 
